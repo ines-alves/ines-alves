@@ -12,10 +12,6 @@ Always open to conversations about research, engineering, and new opportunities.
 
 **ARGUS: Anomaly Detection and Runtime Monitoring for Cross-Chain Aggregation Systems** (MSc Thesis, Instituto Superior Técnico)
 
-Bridges and aggregators let assets and data move across heterogeneous blockchains, but they create multi-hop dependencies where failures and adversarial behavior can propagate across chains in subtle ways. Runtime monitoring of these systems remains largely unexplored, and my research investigates how to observe and analyze them while they operate.
-
-The project defines a normalized cross-chain event model and formal protocol invariants, then combines invariant-based validation with statistical and machine learning methods to detect both explicit violations and subtle deviations, such as abnormal asset flows or unreliable bridge performance. The result is a prototype that collects, correlates, and analyzes execution traces from bridge aggregators.
-
 *Areas touched:* runtime monitoring · anomaly detection · protocol invariants · blockchain interoperability · distributed systems · machine learning
 
 ## Selected Projects
