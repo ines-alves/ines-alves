@@ -14,9 +14,9 @@ Always open to conversations about research, engineering, and new opportunities.
 
 *Areas touched:* runtime monitoring · anomaly detection · protocol invariants · blockchain interoperability · distributed systems · machine learning
 
-## Selected Projects
+## Projects
 
-| Project | Description | Technologies |
+| Project | Description | Tech |
 | --- | --- | --- |
 | [DepChain](https://github.com/ines-alves/DepChain) | Byzantine Fault Tolerant blockchain implementing the HotStuff consensus protocol with EVM execution and BLS threshold signatures. | Java, Hyperledger Besu |
 | [Dida_Meetings](https://github.com/ines-alves/Dida_Meetings) |Fault-tolerant distributed meeting management system implementing Multi-Paxos replication and Vertical Paxos reconfiguration over gRPC. | Java, gRPC, Protocol Buffers|
